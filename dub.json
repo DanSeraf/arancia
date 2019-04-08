@@ -1,0 +1,14 @@
+{
+	"authors": [
+		"user"
+	],
+	"copyright": "Copyright © 2019, user",
+	"dependencies": {
+		"ddash": "~>0.15.0",
+		"vibe-d": "~>0.8.5",
+		"sumtype": "*",
+	},
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "arancia"
+}
